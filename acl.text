@@ -1,0 +1,8 @@
+user::rw-
+user:samy:rw-
+user:wael:r--
+group::rw-
+group:teachers:r--
+group:students:r--
+mask::rw-
+other::---
